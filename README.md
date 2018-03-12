@@ -1,5 +1,7 @@
 # BMPglue
 Pure C to glue *.bmps into a new image.
+<img src="https://github.com/BestOreo/BMPglue/blob/master/metro_collage_full.bmp" width="50%" height="50%" />
+
 
 Q1:
 ```
